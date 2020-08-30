@@ -1,5 +1,7 @@
 ### Hi there, I'm Sunmi
 
+## I'm a Back-end Developer with over 2 years of experience utilizing web and app applications.
+
 - 🔭 I’m currently working on a [Shift maker API][website]!
 - 🌱 I’m recently learning python language
 - 👯 I’m looking to collaborate with other content creators
@@ -11,7 +13,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][Email]
 
-<br/>
 <br/>
 
 
