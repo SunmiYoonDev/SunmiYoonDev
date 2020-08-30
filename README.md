@@ -14,14 +14,12 @@
 2. Simulator of stock-trading in [cs50x-finance](https://github.com/SunmiYoonDev/cs50x-finance)
 3. Asymmetric cryptography of Block Chain in [Asymmetric-cryptographye](https://github.com/SunmiYoonDev/Asymmetric-cryptographye)
 
-<br />
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][Email]
 
-<br/>
 
 ### Languages and Tools:
 
