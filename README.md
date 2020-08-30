@@ -9,7 +9,7 @@
 
 ### Recent Github Activity
 
-1. Shift maker API in [scheduler_back](https://github.com/SunmiYoonDev/scheduler_back)
+1. Shift maker API in [shiftmakerapi](https://github.com/SunmiYoonDev/shiftmakerapi)
 2. Simulator of stock-trading in [cs50x-finance](https://github.com/SunmiYoonDev/cs50x-finance)
 3. Asymmetric cryptography of Block Chain in [Asymmetric-cryptographye](https://github.com/SunmiYoonDev/Asymmetric-cryptographye)
 
