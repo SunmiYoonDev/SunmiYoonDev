@@ -6,7 +6,6 @@
 - 🌱 I’m recently learning python language
 - 👯 I’m looking to collaborate with other content creators
 
-<br/>
 
 ### Recent Github Activity
 
