@@ -43,5 +43,5 @@
 
 
 [website]: http://shiftmaker.azurewebsites.net/swagger/index.html
-[linkedin]: www.linkedin.com/in/sunmi-yoon-2103b7149/
+[linkedin]: https://www.linkedin.com/in/sunmi-yoon-2103b7149/
 [email]: sunmiyoondev@gmail.com 
