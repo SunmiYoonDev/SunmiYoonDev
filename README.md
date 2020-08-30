@@ -6,6 +6,8 @@
 - 🌱 I’m recently learning python language
 - 👯 I’m looking to collaborate with other content creators
 
+<br/>
+
 ### Recent Github Activity
 
 1. Shift maker API in [scheduler_back](https://github.com/SunmiYoonDev/scheduler_back)
@@ -13,7 +15,6 @@
 3. Asymmetric cryptography of Block Chain in [Asymmetric-cryptographye](https://github.com/SunmiYoonDev/Asymmetric-cryptographye)
 
 <br />
-<br/>
 
 ### Connect with me:
 
