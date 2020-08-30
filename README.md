@@ -1,6 +1,6 @@
 ### Hi there, I'm Sunmi
 
-## I'm a Back-end Developer with over 2 years of experience utilizing web and app applications.
+## I'm a Back-end Developer with over 2 years of experience!
 
 - 🔭 I’m currently working on a [Shift maker API][website]!
 - 🌱 I’m recently learning python language
