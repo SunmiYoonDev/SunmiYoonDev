@@ -35,6 +35,6 @@
 
 <br/>
 
-[website]: http://shiftmaker.azurewebsites.net/swagger/index.html
+[website]: http://dayoffwebapi-dev.us-east-1.elasticbeanstalk.com/swagger/index.html
 [linkedin]: https://www.linkedin.com/in/sunmi-yoon-2103b7149/
 [email]: sunmiyoondev@gmail.com 
