@@ -2,6 +2,7 @@
 
 ## I'm a Full Stack Developer with over 2 years of experience!
 
+- :sparkles: I'm building a [website] based on vanilla js[portfolio];
 - 🔭 I’m currently working on a [Shift maker API][website]!
 - 🌱 I’m recently learning python language
 - 👯 I’m looking to collaborate with other content creators
@@ -35,6 +36,7 @@
 
 <br/>
 
+[portfolio]: https://sunmiyoondev.github.io/
 [website]: http://dayoffwebapi-dev.us-east-1.elasticbeanstalk.com/swagger/index.html
 [linkedin]: https://www.linkedin.com/in/sunmi-yoon-2103b7149/
 [email]: sunmiyoondev@gmail.com 
