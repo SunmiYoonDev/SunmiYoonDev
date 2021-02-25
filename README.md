@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer with over 2 years of experience!
 
-- :sparkles: I'm building a [website] based on vanilla js[portfolio];
+- :sparkles: I'm building a [website][portfolio] based on vanilla js;
 - 🔭 I’m currently working on a [Shift maker API][website]!
 - 🌱 I’m recently learning python language
 - 👯 I’m looking to collaborate with other content creators
