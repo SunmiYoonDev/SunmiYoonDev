@@ -1,4 +1,4 @@
-### Hi there, I'm Sunmi
+### Hi, I'm Sunmi
 
 ## I'm a Full Stack Developer with over 2 years of experience!
 
